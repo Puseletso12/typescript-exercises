@@ -1,2 +1,3 @@
 "use strict";
-console.log("Im Puseletso");
+let lastName = "Chuene";
+let isAdult = true;
