@@ -1,8 +1,8 @@
 "use strict";
-function calculator(num1, num2) {
+function calc(num1, num2) {
     return num1 + num2;
 }
-const result = calculator(10, 30);
+const result = calc(10, 30);
 function fixedNumber(num5) {
     return num5;
 }

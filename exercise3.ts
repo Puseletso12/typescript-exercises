@@ -1,7 +1,7 @@
-function calculator(num1: number, num2: number) {
+function calc(num1: number, num2: number) {
   return num1 + num2;
 }
-const result = calculator(10, 30);
+const result = calc(10, 30);
 
 
 function fixedNumber(num5:number) {
